@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
 *main - demonstrating how to escape characters is c
 *
