@@ -3,7 +3,7 @@
 * main - prints the pharse with proper grammar,
 * but the outcone is a piece of art,
 *
-* return 0 (success)
+* Return: 0 (success)
 */
 
 int main(void)
